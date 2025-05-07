@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jDpXpxtC0eb14zcequ8eOjHd7h/lnRs8VJodGmkYjYw=",
+  "Source": "Contoso-Pizza",
+  "BasePath": "_content/Contoso-Pizza",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
